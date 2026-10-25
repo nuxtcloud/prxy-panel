@@ -1,0 +1,9 @@
+Required Notice: Copyright 2026 Roman Stanovov
+
+multi-split (prxy-panel) is licensed under the PolyForm Noncommercial License 1.0.0 (LICENSE.md,
+https://polyformproject.org/licenses/noncommercial/1.0.0). Commercial use requires a separate license
+from the copyright holder.
+
+Third-party components shipped with this software keep their own licenses:
+  vendor/acme.sh   acme.sh, GNU General Public License v3.0 (vendor/acme.sh/LICENSE.md)
+  vendor/onest     Onest font (subset), SIL Open Font License 1.1 (vendor/onest/OFL.txt)
